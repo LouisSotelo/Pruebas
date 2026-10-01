@@ -1,0 +1,24 @@
+TAREA 01****************
+averiguar todo sobre expresiones regulares (son patrones q debe cumplir la cadena)
+
+saber la estructura de un correo (caracteres alfanúmerico, el @ y el dominio y el .com 
+
+se puede validar con expresiones regulares el DNI.
+
+TAREA 02***************
+sql server - evidencia de que es tu maquina..
+
+HOSTNAME
+DIRECCION MAC
+IP PUBLICA
+IPv4
+
+1. Instalar SQL Server v 2025 Developer Edition 
+2. Instalar SQL Server Management Studio SSMS
+3. Descargar 2 BD: AdventureWorks.bak y AdventureWorksDW.bak
+
+Hacer un select a algunas de cualquier 
+todo de Microsoft oficial
+
+Recomendacion***
+Una vez que se instale, ir a Servicios de Windows, y vas ubicar SQL Server, clic derecho y vas a ponerle que la ejecución sea manual, y no automatico.
